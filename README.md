@@ -52,14 +52,14 @@ cafe-website/
 
 ## 🖥️ Screenshots
 
-### 🎮 Editor Screen
-![Editor Screen](assets/EditorScreen.png)
+### Screen 01
+![Screen 01](assets/Screen1.png)
 
-### 👤 User Choice
-![User Choice](assets/UserChoice.png)
+### Screen 02
+![Screen 03](assets/Screen2.png)
 
-### 🏆 Result
-![Result](assets/Result.png)
+### Screen 03
+![Screen 03](assets/Screen3.png)
 
 ---
 
